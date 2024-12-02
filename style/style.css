@@ -1,0 +1,41 @@
+/* extrenal css :::  */
+
+/* element {
+    proprity : value
+} */
+
+/* we call elements using classes !!  */
+
+/* .abc {
+    color: red;
+}
+
+.std {
+    color: green;
+} */
+
+
+/* we call elements using id !!!  */
+
+
+/* #abc{
+    color: blue;
+}
+
+#std {
+    color: palevioletred;
+} */
+
+
+.ay-haja{
+    /* color: rgb(133, 112, 138 ); */
+     /* color: #1c9472; */
+     color: #B3197A;
+     background-color: #FCB5B5;
+     border: solid black 3px;
+     /* border-style:double ;
+     border-color: rgb(29, 17, 157);
+     border-width: 5px; */
+}
+
+
